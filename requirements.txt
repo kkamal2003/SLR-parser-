@@ -1,4 +1,5 @@
 streamlit==1.19.0
 graphviz
 pandas>=1.5,<1.6
-numpy>=1.21,<1.24
+numpy==1.22.0
+
