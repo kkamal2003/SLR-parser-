@@ -24,7 +24,7 @@ This project implements an **SLR (Simple LR) Parser** using Python and the **Str
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/kkamal2003/SLR-parser.git
+    git clone https://github.com/kkamal2003/SLR-parser-.git
     cd slr-parser
     ```
 
